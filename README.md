@@ -2,7 +2,7 @@
 
 ## 技术栈
 
-react + react-router + superagent + antd + es6 + OpenSeadragon
+react + react-router + axios + antd + es6 + OpenSeadragon
 
 ## 项目运行
 安装依赖:
